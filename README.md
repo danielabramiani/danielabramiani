@@ -5,13 +5,11 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 👨‍💻 my best site [https://idyllic-bonbon-ed1223.netlify.app/](https://idyllic-bonbon-ed1223.netlify.app/)
-
-- 📝 I regularly write articles on [many projects](many projects)
+- 👨‍💻 my best site [[https://idyllic-bonbon-ed1223.netlify.app/](https://idyllic-bonbon-ed1223.netlify.app/](https://65d34e915274a1055ad65bc4--heroic-elf-64d378.netlify.app/?fbclid=IwAR12C6H5vMNQAYqIBpae7e2CEgGElMq5I-VEuoD6joAKYM5k8hyM8eO2SL0))
 
 - 💬 Ask me about **something**
 
-- 📫 How to reach me **daniel.abramiani@icloud.com**
+- 📫 How to reach me **daniel.abramiani@icloud.com or danielabramiani4@gmail.com**
 
 - 📄 Know about my experiences [https://65b67a09a5aef370696e3a5d--vocal-swan-d6c511.netlify.app/?fbclid=IwAR0926K7aLrzBA7lIOYidZ3T7fWhv_pHPxhTaIoDBQu5RdJ5yYUoooZzLzA](https://65b67a09a5aef370696e3a5d--vocal-swan-d6c511.netlify.app/?fbclid=IwAR0926K7aLrzBA7lIOYidZ3T7fWhv_pHPxhTaIoDBQu5RdJ5yYUoooZzLzA)
 
