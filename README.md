@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **daniel.abramiani@icloud.com or danielabramiani4@gmail.com**
 
-- 📄 Know about my experiences [https://65b67a09a5aef370696e3a5d--vocal-swan-d6c511.netlify.app/?fbclid=IwAR0926K7aLrzBA7lIOYidZ3T7fWhv_pHPxhTaIoDBQu5RdJ5yYUoooZzLzA](https://65b67a09a5aef370696e3a5d--vocal-swan-d6c511.netlify.app/?fbclid=IwAR0926K7aLrzBA7lIOYidZ3T7fWhv_pHPxhTaIoDBQu5RdJ5yYUoooZzLzA)
+- 📄 Know about my experiences https://spiffy-cascaron-330b27.netlify.app/#about
 
 - ⚡ Fun fact **someone thinks Novator better academy then GOA**
 
