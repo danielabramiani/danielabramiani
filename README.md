@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel 13 years old</h1>
 <h3 align="center">A future front & back end developer</h3>
 
-- 🌱 I’m currently learning **js & want to start react**
-
-- 🤝 I’m looking for help with **nothing**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 my best site https://65d34e915274a1055ad65bc4--heroic-elf-64d378.netlify.app/
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences https://spiffy-cascaron-330b27.netlify.app/#about
 
-- ⚡ Fun fact **someone thinks Novator better academy then GOA**
+- ⚡ My Chat Bot **https://65f57b1f846e7c9e4ca44a97--zippy-paletas-6e79d1.netlify.app/?fbclid=IwAR0J36sQI-P6BOPtGAnXq30OczO7fkIdSsP4IOt-fQkbhU43DXd55CR0l-M**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
