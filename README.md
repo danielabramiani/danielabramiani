@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel 13 years old</h1>
-<h3 align="center">A future front & back end developer</h3>
+<h1 align="center">Hi 👋, I'm Daniel im 13 years old</h1>
+<h3 align="center">Future front & back end developer</h3>
 
 - 🌱 I’m currently learning **react**
 
