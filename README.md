@@ -6,7 +6,7 @@
 
 - 👨‍💻 my best site https://65d34e915274a1055ad65bc4--heroic-elf-64d378.netlify.app/
 
-- 💬 Ask me about **something**
+- 💬 Ask me about **Help** if you need 
 
 - 📫 How to reach me **daniel.abramiani@icloud.com or danielabramiani4@gmail.com**
 
