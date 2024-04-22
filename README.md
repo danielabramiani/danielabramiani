@@ -2,7 +2,7 @@
 <h3 align="center">Future front & back end developer</h3>
 <hr></hr>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 My best site https://65d34e915274a1055ad65bc4--heroic-elf-64d378.netlify.app/
 
