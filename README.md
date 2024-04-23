@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences https://spiffy-cascaron-330b27.netlify.app/#about
 
-- ⚡ My own Chat Bot **https://65f57b1f846e7c9e4ca44a97--zippy-paletas-6e79d1.netlify.app/?fbclid=IwAR0J36sQI-P6BOPtGAnXq30OczO7fkIdSsP4IOt-fQkbhU43DXd55CR0l-M**
+- ⚡ My Chat Bot **https://65f57b1f846e7c9e4ca44a97--zippy-paletas-6e79d1.netlify.app/?fbclid=IwAR0J36sQI-P6BOPtGAnXq30OczO7fkIdSsP4IOt-fQkbhU43DXd55CR0l-M**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
