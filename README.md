@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **daniel.abramiani@icloud.com or danielabramiani4@gmail.com**
 
-- 📄 Know about my experiences [https://spiffy-cascaron-330b27.netlify.app/#about](https://664cef6e062fad1388b5d947--celadon-maamoul-2bd8c0.netlify.app/)
+- 📄 Know about my experiences [[https://spiffy-cascaron-330b27.netlify.app/#about](https://664cef6e062fad1388b5d947--celadon-maamoul-2bd8c0.netlify.app/](https://664f81f3c6f0703bc41a097b--earnest-donut-659f30.netlify.app/))
 
 - ⚡ My Chat Bot **https://65f57b1f846e7c9e4ca44a97--zippy-paletas-6e79d1.netlify.app/?fbclid=IwAR0J36sQI-P6BOPtGAnXq30OczO7fkIdSsP4IOt-fQkbhU43DXd55CR0l-M**
 
