@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 👨‍💻 i Love [Front end](Front end)
+- 👨‍💻 i Love Front end
 
 - 📝 I like to write [codes](codes)
 
