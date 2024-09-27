@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **React,vite,tailwind**
+- 🌱 I’m currently learning **React,tailwind**
 
 - 🤝 I’m looking for help with **backend developing**
 
